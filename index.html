@@ -4,11 +4,14 @@ layout: default
 
 <div class="posts">
 
-  Hello, my new site is coming soon !
+  <h1>New Blog Coming Soon !</h1>
+
   {% for post in site.posts %}
     <!--article class="post">
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <!--div class="entry">
+      <h1>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </h1>
+      <div class="entry">
         {{ post.excerpt }}
       </div>
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Reead More</a>
