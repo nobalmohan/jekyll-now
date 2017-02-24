@@ -298,8 +298,16 @@ margin-left: 30%;
   padding-bottom: 2%;
   border-bottom: 1px solid #eee;
 }
+
 .page-header {
   color: #ccc;
+}
+
+.social-share-block {
+  margin: 1% 0;
+  a {
+    margin-right: 1%;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

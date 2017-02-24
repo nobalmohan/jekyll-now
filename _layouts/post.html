@@ -13,5 +13,12 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
-  {% include disqus.html %}
+  <div class="social-share-block">
+    {% include share-page.html %}
+  </div>
+
+  <div class="comments-block">
+    {% include disqus.html %}
+  </div>
+
 </article>
