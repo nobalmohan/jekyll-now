@@ -338,11 +338,12 @@ nav {
 //EOF Tags
 //Home
 .blog-page-header {
-    font-size: 25px;
-    display: flex;
-    padding-bottom: 2%;
-    border-bottom: 1px solid #eee;
-
+  font-size: 25px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  padding-bottom: 5%;
+  border-bottom: 1px solid #eee;
     a {
         display: flex;
         padding: 0 20%;
@@ -386,7 +387,7 @@ footer {
     font-size: 14px;
     flex: 50;
     display: flex;
-    margin-top: 1%;
+    margin-top: 10px;
 }
 
 .footer {

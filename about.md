@@ -11,6 +11,5 @@ A nomadic web developer and traveller based out of Bangalore, India. I love the 
 
 I also write about [travel](http://nobal.in/tags/#Travel) and [technology](http://nobal.in/tags/#Technology).
 
-Available for Hire :)
 
 Cheers!
