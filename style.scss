@@ -364,8 +364,11 @@ nav {
 }
 
 .social-share-block {
-    margin: 2% 0 0;
-
+  padding: 20px 0 14px 0;
+  border-top: 1px solid #eee;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bolder;
     a {
         margin-right: 1%;
     }
