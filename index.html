@@ -4,25 +4,25 @@ layout: default
 
 <div class="posts">
 
-  <div class="home-page-header">
+<div class="home-intro">
+  Hey, my name is Nobal. I am a Freelance Web Developer with a passion for design and perfoemance. Check out my <a href="http://nobal.in/blog/">blog</a>
+</div>
+
+  <!--div class="home-page-header">
     <span>Angular Developer / </span>
     <span>Artist /</span>
     <span>Traveller</span>
-  </div>
+  </div-->
 
-  {% for post in site.posts %}
-    <article class="post">
-      <h2>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        <!--span style="float: right;">
-           {{ post.date | date_to_string }}
-        </span-->
-      </h2>
+  <!--ul class="home-page-block">
+    <li>
+      <a href="#">Blog</a>
+    </li>
+    <li>Code</li>
+    <li>Projects</li>
+    <li>Open source</li>
+    <li>Hire</li>
+    <li>Social Media</li>
+  </ul-->
 
-      <!--div class="entry">
-        {{ post.excerpt }}
-      </div>
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a-->
-    </article>
-  {% endfor %}
 </div>
