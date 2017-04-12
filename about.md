@@ -4,7 +4,6 @@ title:
 permalink: /about/
 ---
 
-## About
 
 Hello,
 
