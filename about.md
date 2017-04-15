@@ -7,11 +7,11 @@ permalink: /about/
 
 Hello,
 
-I am Nobal. An angular and react app developer based out of Bangalore, India. I have a master degree in Computer Science and over 6 years of Web Development experience with corporates and startups.
+I am Nobal. I am a web developer based out of Bangalore, India. I have a master degree in Computer Science and over 6 years of web development experience with corporates and startups. I spent my time building web applications using Angular JS and React JS.
 
 If not in Bangalore, I am out with my backpack travelling. Check out my [blog](http://nobal.in/tags/#Travel) for travel stories.
 
-## Contact
+## Connect
 
 [Twitter](https://twitter.com/nobalmohan)   [LinkedIn](https://www.linkedin.com/in/nobal-mohan)
 
