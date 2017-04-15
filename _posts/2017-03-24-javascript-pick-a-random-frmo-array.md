@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pick a random value from JavaScript arrays
+title: Pick a random value from JavaScript array
 tags: JavaScript Technology
 ---
 Let's say you want to pick a random value out an array. You can do that in vanilla JavaScript or using any utility libraries like Lodash or Underscore.
