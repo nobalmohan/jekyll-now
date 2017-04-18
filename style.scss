@@ -281,6 +281,15 @@ nav {
     margin-top: 25px;
 }
 //tags
+
+.tags-page {
+  list-style: none;
+  margin-top: 5px;
+  margin-bottom: 0;
+  overflow: hidden;
+  padding: 0 0 10px;
+}
+
 .tags {
     list-style: none;
     margin-top: 5px;
@@ -308,6 +317,7 @@ nav {
     margin: 0 10px 10px 0;
     text-decoration: none;
     -webkit-transition: color 0.2s;
+    float: left;
 }
 
 .tag::before {
