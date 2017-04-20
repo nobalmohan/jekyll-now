@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting started with Angular CLI
-tags: Angular JavaScript Technology
+tags: Angular JavaScript Technology Web
 ---
 
 The Angular CLI is a command line interface tool that was released as part of Angular 2. It helps you to scaffold, develop, test, lint and deploy angular apps.

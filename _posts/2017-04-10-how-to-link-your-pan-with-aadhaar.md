@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to link your Aadhaar and PAN card
-tags: India Aadhaar
+tags: India Aadhaar Web
 ---
 The government of India have announced mandatory linking of Aadhaar and PAN card for its citizens.
 
