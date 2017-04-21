@@ -1,0 +1,13 @@
+{
+  "name": "Nobal Mohan",
+  "short_name": "nobalmohan",
+  "lang": "en-US",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Web Developer",
+  "theme_color": "#ffffff",
+  "start_url": "/index.html",
+  "orientation": "fullscreen",
+  "icons": [
+  ]
+}

@@ -10,7 +10,7 @@ Example array
 ```javascript
 var fruitList = ['Apple', 'Mango', 'Banana', 'Orange'];
 ```
-### vanilla JavaScript
+### Vanilla JavaScript
 
 Find the length of the array and use Math.random() to pick a value. Math.floor() will help you to pick an integer close to the random number.
 

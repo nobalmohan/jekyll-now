@@ -17,7 +17,8 @@ In case, if you don't see a popup dialogue. Goto "Profile Setting" -> "Link Aaha
 
 3. You should see a success message like the one below.
 
-![how-to-link-your-pan-with-aadhaar](../images/post/how-to-link-your-pan-with-aadhaar.png)
-
 
 ### Note: Your name in PAN and Aadhaar should match exactly, else you have to update your PAN card to have a full name.
+
+
+![how-to-link-your-pan-with-aadhaar](../images/post/how-to-link-your-pan-with-aadhaar.png)
