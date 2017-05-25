@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sri Lanka Cycling Thing’s you should know
+title: Sri Lanka Cycling
 tags: Travel SriLanka Cycling
 ---
 Sri Lanka is a tropical paradise with its lush green forest cover, abundant wildlife and pristine beaches. Years of civil war have kept the country out of tourist map. Now, Sri Lanka is a hotspot in the tourist circuit. I cycled the country in 2014 for 10 days covering the central highlands. I will go back and cover the coastal region someday.
