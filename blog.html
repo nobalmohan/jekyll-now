@@ -5,23 +5,34 @@ layout: default
 <div class="posts">
 
   <div class="blog-page-header">
-    <a href="{{ site.baseurl }}/blog" class="link-highlight">All</a> 
+    <a href="{{ site.baseurl }}/blog" class="link-highlight">All</a>
     <a href="{{ site.baseurl }}/travel">Travel</a>
     <a href="{{ site.baseurl }}/technology">Technology</a>
+    <a href="{{ site.baseurl }}/tags" >Tags</a>
   </div>
 
   {% for post in site.posts %}
     <article class="post">
-      <h2>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        <!--span style="float: right;">
-           {{ post.date | date_to_string }}
-        </span-->
-      </h2>
-      <!--div class="entry">
-        {{ post.excerpt }}
+
+      <div>
+        <!--div>
+            <img src="../images/{{post.image}}">
+        </div-->
+        <div>
+          <h2>
+            <a href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.title }}
+          </a>
+            <!--span style="float: right;">
+               {{ post.date | date_to_string }}
+            </span-->
+          </h2>
+          <!--div class="entry">
+            {{ post.excerpt }}
+          </div>
+          <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a-->
+        </div>
       </div>
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a-->
     </article>
   {% endfor %}
 </div>
