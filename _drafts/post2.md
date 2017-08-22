@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bangalore Day Trip: Shivanasamudra Falls, Barachukki falls and BR Hills
+title: Bangalore Day Trip: Belur and Halebidu
 tags: Travel Bangalore India
 ---
 

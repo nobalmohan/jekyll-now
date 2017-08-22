@@ -7,6 +7,7 @@ tags: Travel Bangalore India
 
 If you are looking for a day long road trip close to Bangalore, then BR hills and Shivanasamudra Falls would be a perfect choice for a picnic.
 
+
 Shivanasamudra Falls on Kaveri river is 3 hours drive from Bangalore on the way to Mysore. It's a bluff type waterfall and a hydroelectric power station was setup in 1909. The view is spectacular from the opposite ridge where Karnataka tourism department have constructed staircase and a small watch platform for an 180-degree view. Vehicle fee is collected by the forest department to enter the view platform.
 
 Few kilometre upstream on the other side of Kaveri is barachukki falls. You have to cross the river to reach barachukki. Don't miss the beautiful old stone bridge on the way.
