@@ -1,5 +1,7 @@
 ---
 layout: default
+pagination:
+  enabled: true
 ---
 
 <div class="posts">
@@ -11,28 +13,32 @@ layout: default
     <a href="{{ site.baseurl }}/tags" >Tags</a>
   </div>
 
-  {% for post in site.posts %}
-    <article class="post">
-
+  {% for post in paginator.posts %}
+    <article class="blog-post">
       <div>
-        <!--div>
-            <img src="../images/{{post.image}}">
-        </div-->
-        <div>
-          <h2>
-            <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
-          </a>
-            <!--span style="float: right;">
-               {{ post.date | date_to_string }}
-            </span-->
-          </h2>
-          <div class="entry">
-            {{ post.excerpt }}
-          </div>
-          <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+        <h2>
+          <a href="{{ site.baseurl }}{{ post.url }}">
+          {{ post.title }}
+        </a>
+        </h2>
+        <div class="entry">
+          {{ post.excerpt }}
         </div>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       </div>
     </article>
   {% endfor %}
+
+  {% if paginator.total_pages > 1 %}
+    <div class="Pagination">
+      {% if paginator.previous_page %}
+        <a class="link-highlight" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+      {% endif %}
+      {% if paginator.next_page %}
+        <a class="link-highlight" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+      {% endif %}
+    </div>
+{% endif %}
+
+
 </div>
