@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Cycling destinations from Bengaluru
+title: Cycling destinations from Bangalore
 tags: Cycling Bangalore India Travel
 ---
 
-A curation of cycling routes we have been over the years and contribution from cyclist.
+This is a live document. Will get updated whenever a new route is discoverd.
 
 
-#: Big banyan & Manchinbele dam
+##: Big banyan & Manchinbele dam
 
 State:   Karnataka
 Days required: 1
@@ -16,10 +16,10 @@ Route: Bangalore - Mysore Road - Ramohalli - Big Banyan - Manchinbele
 Map link: https://goo.gl/maps/0aVFM
 About:
 Pictures:
-By: Nobal
+Credit: Nobal
 
 image
-#: Savandurga Hill
+##: Savandurga Hill
 
 State:  Karnataka
 Days required: 1
@@ -28,7 +28,7 @@ Route:Bangalore - Silk Board - Banasankari - kengeri -Big banyan tree Manchinbel
 Map link: https://goo.gl/maps/8EakN
 About:
 Pictures: https://www.facebook.com/media/set/?set=a.10203890176755504.1073741843.1253716462&type=1&l=4ba00df24b
-By: Nobal
+Credit: Nobal
 
 image
 #: Thattekere Lake
@@ -40,7 +40,7 @@ Route: Bangalore - Jayadeva - Bannerghatta Zoo - Muninagara Dam - Thattakere Lak
 Map link: https://goo.gl/maps/fIDFX
 About:
 Pictures: https://www.facebook.com/media/set/?set=a.10203996108043720.1073741845.1253716462&type=1&l=f3e557cc4b
-By: Nobal
+Credit: Nobal
 
 
 
@@ -53,7 +53,7 @@ Route: Bangalore - Kanakpura road - Harohalli - Jigni - Hosur Road - Silk Board 
 Map link: https://goo.gl/maps/ptLIr
 About:
 Pictures:
-By:  Shyam Krishnaswamy
+Credit:  Shyam Krishnaswamy
 
 
 
@@ -66,7 +66,7 @@ Route:  Bangalore - Silkboard - Sarjapur - Hosa Road - Hosur Road - Silk Board -
 Map link:
 About:
 Pictures:
-By:  Shyam Krishnaswamy
+Credit:  Shyam Krishnaswamy
 
 
 
@@ -79,7 +79,7 @@ Route:  Bangalore - Silk Board - Old Madras Road - Siva's Road - Budigere - Old 
 Map link:
 About:
 Pictures:
-By:  Shyam Krishnaswamy
+Credit:  Shyam Krishnaswamy
 
 
 
@@ -92,7 +92,7 @@ Route:  Bangalore - Silk Board - Sarjapur - Bagalur - Sarjapur - Silk Board -  B
 Map link:
 About:
 Pictures:
-By:  Shyam Krishnaswamy
+Credit:  Shyam Krishnaswamy
 
 image
 #: Chikka Hampi
@@ -104,7 +104,7 @@ Route: Bangalore - Marathalli - Malur - Tekal
 Map link: http://goo.gl/lHSNdH
 About:
 Pictures:
-By: Dalvir Suri
+Credit: Dalvir Suri
 
 image
 #: Denkanikottai
@@ -116,7 +116,7 @@ Route:  Bangalore - Silk board -  Attibele - Denkanikottai - Thally - Anekal - C
 Map link: https://goo.gl/maps/Qy7qI
 About:
 Pictures: https://www.facebook.com/media/set/?set=a.10204099390785724.1073741846.1253716462&type=1&l=9329fee602
-By: Nobal
+Credit: Nobal
 
 image
 #: Kolar Gold Fields
@@ -128,12 +128,4 @@ Route:  Banglaore  - Marathahalli - Whitefield - Village road - Malur - Village 
 Map link: https://goo.gl/maps/rsvZk
 About:
 Pictures: https://www.facebook.com/media/set/?set=a.10203946638687017.1073741844.1253716462&type=1&l=db128c2608
-By: Nobal
-
-
-
-#: 2 or more days cycling list
-
-
-
-image
+Credit: Nobal

@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Bangalore Day Trip: Belur and Halebidu
+title: Bangalore Day Trip - Belur and Halebidu
 tags: Travel Bangalore India
 ---
 
-Bangalore Day Trip: Belur and Halebidu
+Belur and Halebidu are fine examples are Hoysala architecture. An idea destination for a road trip from bangalore.
+
+Either you can rent a car or do a bike trip including Sharvanabelagola, which is on the way near to Hassan. If you like to take it slow and experience the rural lifestyle. Hitch a train.
 
 The closest railway station is Arsikere ( ASK ), 180 kms from Bangalore. Halebidu is about 5 kms from Arsikere and Belur is another 15 kms from Halebidu. Arsikere is an important connecting station in south western railway.So, lot of train stop by for change of train. If you are planning for a day trip, there’s a fast train perfect for day trip:
 

@@ -5,7 +5,9 @@ tags: Atom Tools Technology
 ---
 
 
-[Atom](https://atom.io) is my favourite text editor for development. Simple, clean and with over 6K+ packages built by the open source community. Atom got everything you ask for. But, we are gonna cherry pick packages based on popularity and more useful for web developers in particular.
+[Atom](https://atom.io) is my favourite text editor for development. Simple, clean and with over 6K+ packages built by the open source community.
+
+Atom got everything you ask for. But, we are gonna cherry pick packages based on popularity and more useful for web developers in particular.
 
 ### [Emmet](https://atom.io/packages/emmet){:target="_blank"}
 Emmet is a toolkit for HTML/CSS. You type abbreviation syntax and emmet will parse them to produce expanded DOM elements.
