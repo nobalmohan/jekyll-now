@@ -49,9 +49,6 @@ url: http://nobal.in
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
-plugins:
-  - jekyll-seo-tag
-
 pagination:
 
   # Site-wide kill switch, disabled here it doesn't run at all
