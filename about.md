@@ -19,7 +19,4 @@ contact@nobal.in
 
 [Twitter](https://twitter.com/nobalmohan)   
 [LinkedIn](https://www.linkedin.com/in/nobal-mohan)
-
-
-
-This blog is powered by [Jekyll](https://jekyllrb.com/) and hosted by [GitHub Pages](https://pages.github.com/)
+[GitHub](https://github.com/nobalmohan)
