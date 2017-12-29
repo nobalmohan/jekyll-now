@@ -56,7 +56,7 @@ h1 {
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 20px;
 }
 
 h3 {
@@ -71,7 +71,7 @@ h4 {
 p, ul {
   margin-bottom: 2%;
   line-height: 1.6;
-  font-size: 15pt;
+  font-size: 14pt;
 }
 
 a {
@@ -234,7 +234,7 @@ nav {
         margin-left: 20px;
         color: $darkGray;
         text-align: right;
-        font-weight: 300;
+        font-weight: 500;
         letter-spacing: 1px;
         @include mobile {
             margin: 0 3%;
@@ -366,6 +366,7 @@ nav {
         display: flex;
         padding: 0 10px;
         font-weight: bold;
+        font-size: 16pt;
     }
 }
 
@@ -382,8 +383,8 @@ nav {
 
 .home-intro {
   padding: 4% 0;
-    font-size: 26px;
-    color: #676767;
+  font-size: 16pt;
+  color: #676767;
 }
 
 .home-page-block {
@@ -435,6 +436,9 @@ footer {
     flex: 50;
     display: flex;
     margin-top: 5px;
+    @include mobile {
+       display: none;
+    }
 }
 
 .footer {
@@ -448,8 +452,9 @@ footer {
     flex: 50;
     justify-content: flex-end;
     a {
-        font-size: 1.5em;
-        color: $gray;
+      font-size: 20pt;
+      color: #666;
+      margin-right: 3%;
     }
 }
 .icon-heart {
@@ -546,6 +551,7 @@ nav {
   margin: 0 auto;
   width: 60%;
 }
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
