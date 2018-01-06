@@ -75,13 +75,12 @@ p, ul {
 }
 
 a {
-    color: $blue;
+    color: #2196F3;
     text-decoration: none;
     cursor: pointer;
-
     &:active,
     &:hover {
-        color: $blue;
+        color: #1976D2;
     }
 }
 
@@ -371,7 +370,10 @@ nav {
 }
 
 .blog-post {
-  margin-bottom: 5%;
+  margin-bottom: 1%;
+  a {
+        font-size: 16pt;
+  }
 }
 
 .home-page-header {
@@ -382,9 +384,10 @@ nav {
 }
 
 .home-intro {
-  padding: 4% 0;
+  padding: 2% 0;
   font-size: 16pt;
   color: #676767;
+  text-align: center;
 }
 
 .home-page-block {
