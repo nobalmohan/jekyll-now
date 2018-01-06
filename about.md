@@ -12,4 +12,8 @@ I have mostly worked with co-founders at a very early stage to build their MVP a
 
 I also enjoy cycling and backpacking. Some of my travelogue can be found [here](http://nobal.in/tags/#Travel). If you like pictures more than words, you will enjoy my [Instagram](https://www.instagram.com/nobalmohan/).
 
+### Mail:
+
+contact@nobal.in
+
 Cheers!
