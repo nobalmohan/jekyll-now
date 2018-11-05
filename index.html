@@ -6,7 +6,7 @@ layout: default
   <div class="home-intro">
     <h1>Latest Post</h1>
     {% for post in site.posts offset:1 limit:4 %}
-    <h2><a class="prev" href="{{ post.url }}">{{post.title}}</a> <span class="time-to-read">{{ content | reading_time_as_i }}</span></h2>
+    <h2><a class="prev" href="{{ post.url }}">{{post.title}}</a> <!--span class="time-to-read">{{ content | reading_time_as_i }}</span--></h2>
     <p>{{ post.excerpt }} </p>
     {% endfor %}
   </div>
