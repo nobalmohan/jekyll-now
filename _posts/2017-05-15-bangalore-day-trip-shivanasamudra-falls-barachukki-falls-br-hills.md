@@ -2,6 +2,7 @@
 layout: post
 title: Bangalore Day Trip - Shivanasamudra and BR Hills
 tags: Travel Bangalore India
+categories: [ blog, travel]
 ---
 
 

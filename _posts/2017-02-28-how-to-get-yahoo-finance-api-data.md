@@ -2,6 +2,7 @@
 layout: post
 title: Getting real time stock data from Yahoo Finance API
 tags: Technology Yahoo API
+categories: [ blog, technology]
 ---
 Yahoo Finance provide a way to query real time stock market data across the world. You can use Yahoo Query Language [console](https://developer.yahoo.com/yql/console/) to test your query.
 

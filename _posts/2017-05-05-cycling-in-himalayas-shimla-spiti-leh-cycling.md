@@ -2,6 +2,7 @@
 layout: post
 title: Cycling in Himalayas - Doing the Shimla / Spiti / Leh trail on your own
 tags: Travel Himalayas Cycling
+categories: [ blog, cycling]
 ---
 
 This post is intended for beginners, who plan to do the famous Manali-Leh bicycle tour. Written after my first Himalayan cycling covering 900 Kms in Shimla - Spiti - Leh route in 2014. Enjoy !

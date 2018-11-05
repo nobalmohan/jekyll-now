@@ -17,20 +17,19 @@ avatar: https://avatars1.githubusercontent.com/u/2737010?v=3
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
+  ? dribbble
+  ? email
+  ? facebook
+  ? flickr
   github: nobalmohan
   instagram: nobalmohan
   linkedin: nobal-mohan/
-  pinterest:
-  rss:
+  ? pinterest
+  ? rss
   twitter: nobalmohan
-  stackoverflow:
+  ? stackoverflow
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -50,7 +49,6 @@ url: http://nobal.in
 baseurl: ""
 
 pagination:
-
   # Site-wide kill switch, disabled here it doesn't run at all
   enabled: true
 
@@ -58,15 +56,15 @@ pagination:
   debug: false
 
   # The default document collection to paginate if nothing is specified ('posts' is default)
-  collection: 'posts'
+  collection: "posts"
 
   # How many objects per paginated page, used to be `paginate` (default: 0, means all)
   per_page: 10
-  sort_field: 'date'
+  sort_field: "date"
   sort_reverse: true
 
   # The permalink structure for the paginated pages (this can be any level deep)
-  permalink: '/page/:num/' # Pages are index.html inside this folder (default)
+  permalink: "/page/:num/" # Pages are index.html inside this folder (default)
   #permalink: '/page/:num.html' # Pages are simple html files
   #permalink: '/page/:num' # Pages are html files, linked jekyll extensionless permalink style.
 
@@ -74,7 +72,7 @@ pagination:
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:title/
+permalink: /:categories/:title/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
@@ -87,17 +85,18 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+    css_class: "highlight"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-paginate-v2
+  - jekyll-time-to-read
 
 # Exclude these files from your production _site
 exclude:

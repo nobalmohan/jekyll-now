@@ -2,6 +2,7 @@
 layout: post
 title: How to take a screenshots in Mac OS
 tags: Mac Technology
+categories: [ blog, technology]
 ---
 
 It's simple to take a screenshot or screen capture in MacOS. You don't need a third party app to do it.

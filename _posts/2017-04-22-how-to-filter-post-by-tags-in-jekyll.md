@@ -2,6 +2,7 @@
 layout: post
 title: How to filter post by category or tag in Jekyll
 tags: Web Technology Jekyll
+categories: [ blog, technology]
 ---
 
 Jekyll follows liquid templating and allows a greater customization of filtering pages, tags, posts and categories.
